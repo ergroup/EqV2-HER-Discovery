@@ -33,6 +33,7 @@ This repository contains the computational data and results for the discovery of
 - `MLrelaxedTrajMinHadsData.zip` - ML-relaxed trajectories and minimum H adsorption data
 - `VASP_InputandOutputFiles.zip` - VASP input and output files for DFT calculations
 - `VolcanoPlot-VASP_configurations.zip` - Structures used in volcano plot analysis
+- `Out_Of_Domain_Vasp.zip` - VASP input and output files for fully optimized out-of-domain bulk systems
 
 ## File Formats
 
@@ -61,7 +62,8 @@ Structure files in ZIP archives are in VASP POSCAR format, compatible with ASE, 
 
 Analysis notebooks for data exploration and visualization:
 - `demo_InDomain_H_ads.ipynb` - In-domain hydrogen adsorption analysis
-- `SurfaceEnergy_ASCat_demo.ipynb` - Surface energy Calculations and Surface reconstruction detection 
+- `SurfaceEnergy_ASCat_demo.ipynb` - Surface energy Calculations and Surface reconstruction detection
+- `Material_Screening.ipynb` - Screens bimetallics and classifies them as in- or out-of-domain (OC20)
 
 ## Citation
 
