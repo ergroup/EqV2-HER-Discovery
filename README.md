@@ -70,17 +70,21 @@ Analysis notebooks for data exploration and visualization:
 If you use this dataset, structures, or analysis from our manuscript, please cite:
 
 ```bibtex
-@article{oguz2025ml,
-  title={Machine Learning–Accelerated Discovery of Earth-Abundant Bimetallic Electrocatalysts for the Hydrogen Evolution Reaction},
+@article{oguz2025machine,
+  title={Machine Learning--Accelerated Discovery of Earth-Abundant Bimetallic Electrocatalysts for the Hydrogen Evolution Reaction},
   author={Oguz, Ismail Can and Khossossi, Nabil and Brunacci, Marco and Bucak, Haldun and Er, Süleyman},
-  journal={ChemRxiv},
+  journal={ACS Catalysis},
+  volume={15},
+  pages={19461--19474},
   year={2025},
-  doi={10.26434/chemrxiv-2025-0whpn},
-  url={https://chemrxiv.org/engage/chemrxiv/article-details/6874f7ed23be8e43d62848a8}
+  publisher={ACS Publications},
+  doi={10.1021/acscatal.5c04967},
+  url={https://pubs.acs.org/doi/full/10.1021/acscatal.5c04967}
 }
 ```
 
-**Preprint**: [Machine Learning–Accelerated Discovery of Earth-Abundant Bimetallic Electrocatalysts for the Hydrogen Evolution Reaction](https://chemrxiv.org/engage/chemrxiv/article-details/6874f7ed23be8e43d62848a8)
+**Published Article**: [Machine Learning–Accelerated Discovery of Earth-Abundant Bimetallic Electrocatalysts for the Hydrogen Evolution Reaction](https://pubs.acs.org/doi/full/10.1021/acscatal.5c04967)  
+*ACS Catalysis* **2025**, *15*, 19461–19474. DOI: [10.1021/acscatal.5c04967](https://doi.org/10.1021/acscatal.5c04967)
 
 ## Contact
 
